@@ -6,3 +6,5 @@ This repository is used to test DocDrift's pull request analysis workflow.
 
 - Verify that DocDrift receives pull request events.
 - Verify that repository documentation checks run correctly.
+
+DocDrift PR test: checking whether pull request events trigger analysis
